@@ -191,7 +191,7 @@ A correção de Bonferroni não foi utilizada, já que esta é adequada para red
 
 ### Recomendação
 
-Este experimento foi desenvolvido para filtrar os alunos mais engajados, a fim de melhorar a experiência destes e otimizar o tempo dos metores sem diminuir significativamente a quantidade de alunos que se matriculam. Após a análise dos resultados percebemos que há uma diminuição estatisticamente e praticamente significantes na conversão, mas não há mudanças significantes na conversão líquida. Isso significa que pudemos observar uma queda no número de alunos matriculados que não está ligada a um aumento de alunos matriculados por mais de 14 dias. Como o experimento pode representar uma queda significativa nos lucros da empresa, minha recomendação é não lançá-lo e continuar fazendo experimentos.
+Este experimento foi desenvolvido para filtrar os alunos mais engajados, a fim de melhorar a experiência destes e otimizar o tempo dos mentores sem diminuir significativamente a quantidade de alunos que permanecem matriculados. Após a análise dos resultados percebemos que há uma diminuição estatisticamente e praticamente significativa na conversão, o que é bom e era esperado. A conversão líquida não apresenta mudança estatisticamente significativa, porém seu intervalo de confiança inclui o valor negativo do limite de significância prática. Isso significa que não podemos ter certeza desse efeito no nível de confiança de 95%. Em outras palavras, é possível que o número de alunos que permanecem matriculados por mais de 14 dias tenha diminuido de maneira que influenciaria significativamente o lucro da empresa. Por este motivo, minha recomendação é não lançar essa experiência e partir para novos experimentos.
 
 ### Experimento subsequente
 
